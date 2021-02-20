@@ -18,12 +18,12 @@ this section.
 
 | #  | Design Pattern                      | Address                                           |
 |----|-------------------------------------|---------------------------------------------------|
-| 1  | Adapter                             | [/Adapter](/Structural/Adapter)                   |
-| 2  | Bridge                              | [/Birdge](/Structural/Birdge)                     |
-| 3  | Composite                           | [/Composite](/Structural/Composite)               |
-| 4  | Decorator                           | [/Decorator](/Structural/Decorator)               |
-| 5  | Facade                              | [/Facade](/Structural/Facade)                     |
-| 6  | FlyWeight                           | [/FlyWeight](/Structural/FlyWeight)               |
-| 7  | Private Class Data                  | [/PrivateClassData](/Structural/PrivateClassData) |
-| 8  | Proxy                               | [/Proxy](/Structural/Proxy)                       |
------------------------------------------------------
+| 1  | Adapter                             | [Adapter](/Structural/Adapter)                    |
+| 2  | Bridge                              | [Birdge](/Structural/Birdge)                      |
+| 3  | Composite                           | [Composite](/Structural/Composite)                |
+| 4  | Decorator                           | [Decorator](/Structural/Decorator)                |
+| 5  | Facade                              | [Facade](/Structural/Facade)                      |
+| 6  | FlyWeight                           | [FlyWeight](/Structural/FlyWeight)                |
+| 7  | Private Class Data                  | [PrivateClassData](/Structural/PrivateClassData)  |
+| 8  | Proxy                               | [Proxy](/Structural/Proxy)                        |
+------------------------------------------------------------------------------------------------
