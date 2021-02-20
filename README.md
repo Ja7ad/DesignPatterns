@@ -1,7 +1,7 @@
 # DesignPatterns
 Design Patterns Implementation in go
 
-* Structural design patterns
+* [Structural design patterns](/Structural)
 * 
 *
 *
