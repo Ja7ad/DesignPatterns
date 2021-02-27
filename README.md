@@ -19,7 +19,7 @@ this section.
 | #  | Design Pattern                      | Address                                           |
 |----|-------------------------------------|---------------------------------------------------|
 | 1  | Adapter                             | [Adapter](/Structural/Adapter)                    |
-| 2  | Bridge                              | [Birdge](/Structural/Birdge)                      |
+| 2  | Bridge                              | [Bridge](/Structural/Bridge)                      |
 | 3  | Composite                           | [Composite](/Structural/Composite)                |
 | 4  | Decorator                           | [Decorator](/Structural/Decorator)                |
 | 5  | Facade                              | [Facade](/Structural/Facade)                      |
